@@ -12,6 +12,7 @@ Analyzing Retention: Understanding customer loyalty and repeat order behavior.
 
 Reducing Churn: Pinpointing where customers drop off and suggesting improvements to enhance the lifetime value (LTV).
 
+
 📊 Key Insights from Dashboards
 Based on the visualized data, the following areas were analyzed:
 
@@ -23,8 +24,9 @@ Order Status Trends: Tracking "Delivered vs. Cancelled" orders over time to meas
 
 Revenue Growth: Analyzing month-over-month revenue trends to detect seasonal fluctuations.
 
-🛠️ Steps Taken & Remaining
-Completed Steps:
+
+
+🛠️ Data Pipeline:
 Data Cleaning: Handled missing values and standardized restaurant names/categories.
 
 Calculated Fields: Created custom metrics for Churn Rate and Retention Rate %.
@@ -40,14 +42,20 @@ Predictive Modeling: Integrating a Python/R script to predict which customers ar
 
 A/B Testing Simulation: Evaluating the potential impact of loyalty discounts on the current churn rate.
 
+
+Tools Used: Tableau
+
+
 💡 Improvements & Suggestions
 To improve platform efficiency and retention, the following recommendations were presented to the client:
+Improve delivery time by finding the bottleneck
 
 Loyalty Programs: Introduce tiered rewards for the "Top Stories" (frequent users) identified in the bar charts.
 
 Operational Optimization: Focus on the "Delivery Status Over Time" metrics to reduce delays in specific low-performing zones.
 
 Menu Engineering: Promote high-margin items that currently have lower visibility but high retention potential.
+
 
 🏁 Conclusion
 The analysis reveals a strong correlation between delivery speed and customer retention. While the platform shows steady growth in specific regions, the Churn Rate spikes in areas with inconsistent delivery statuses. By implementing the suggested loyalty interventions and focusing on high-performing city clusters, the platform can expect a significant increase in customer lifetime value.
