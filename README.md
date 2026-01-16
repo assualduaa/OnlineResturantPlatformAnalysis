@@ -7,7 +7,8 @@ This project provides a comprehensive data analysis of a restaurant platform's o
 
 <br>
 <br>
-🎯 #Project Aim
+🎯 # Project Aim
+<br>
 The primary goal of this analysis was to evaluate the platform's health by:
 
 Measuring Efficiency: Identifying top-performing restaurant partners and high-demand items.
@@ -18,7 +19,8 @@ Reducing Churn: Pinpointing where customers drop off and suggesting improvements
 
 <br>
 <br>
-📊 #Key Insights from Dashboards
+📊 # Key Insights from Dashboards
+<br>
 Based on the visualized data, the following areas were analyzed:
 
 Top Sellers & Revenue: Identification of "Star" items and high-performing franchises (e.g., McDonald's, KFC) to optimize supply chains.
@@ -32,7 +34,8 @@ Revenue Growth: Analyzing month-over-month revenue trends to detect seasonal flu
 
 <br>
 <br>
-🛠️ #Data Pipeline:
+🛠️ # Data Pipeline:
+<br>
 Data Cleaning: Handled missing values and standardized restaurant names/categories.
 
 Calculated Fields: Created custom metrics for Churn Rate and Retention Rate %.
@@ -50,14 +53,14 @@ A/B Testing Simulation: Evaluating the potential impact of loyalty discounts on 
 <br>
 <br>
 
-#Insights:
+#Insights:<br>
 
 <img width="1490" height="793" alt="Screenshot 2026-01-16 135336" src="https://github.com/user-attachments/assets/e975cd98-af5e-4ab6-968c-55f305c0c49d" />
 
 <img width="1654" height="794" alt="Screenshot 2026-01-16 135321" src="https://github.com/user-attachments/assets/ad44dfec-9faa-42f4-ad43-51f3f3071248" />
 <br>
 <br>
-#Top Stories
+#Top Stories<br>
 
 <img width="1626" height="792" alt="Screenshot 2026-01-16 135039" src="https://github.com/user-attachments/assets/6cdc5402-efa3-4704-a79b-0bb25637df1a" />
 
@@ -71,7 +74,8 @@ Tools Used: Tableau
 <br>
 <br>
 
-💡 Improvements & Suggestions
+💡 # Improvements & Suggestions
+<br>
 To improve platform efficiency and retention, the following recommendations were presented to the client:
 Improve delivery time by finding the bottleneck
 
